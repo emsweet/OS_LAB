@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b540b17c-fb58-4c38-aac1-05372659a900" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1TmWnJCA8RWZqyba6gp45IdxB0T" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="keyboard&#9;FILE&#9;file:///home/tony/H/操作系统/操作系统实验三/lab3/m/kernel/keyboard.c" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../实验/第三次实验/Orange S：一个操作系统的实现(有光盘)/ORANGE’S：一个操作系统的实现/Orange's一个操作系统的实现(随书光盘)/chapter7/m" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b540b17c-fb58-4c38-aac1-05372659a900" name="Default" comment="" />
+      <created>1527072281789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527072281789</updated>
+      <workItem from="1527072283241" duration="673000" />
+      <workItem from="1527073274616" duration="9732000" />
+      <workItem from="1527141306451" duration="4206000" />
+      <workItem from="1527146183571" duration="11490000" />
+      <workItem from="1527171403211" duration="5578000" />
+      <workItem from="1527676668091" duration="696000" />
+      <workItem from="1574065935294" duration="1907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
